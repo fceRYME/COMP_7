@@ -305,7 +305,7 @@ ls -la cfg_main_O2.png
 
 ---
 
-## Индивидуальное задание: `std::complex<double>`
+## Индивидуальное задание: 
 
 ```
 inline int square(int x) {
